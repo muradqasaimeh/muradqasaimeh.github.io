@@ -2,8 +2,8 @@
 
 ---
 <br><br>
-  <a href="https://scholar.google.com/citations?user=Y1-JvjsAAAAJ&hl=en">Google Scholar</a> 
- 	<a href="https://www.linkedin.com/in/muradqasaimeh/">LinkedIn</a> 
+ <!--a href="https://scholar.google.com/citations?user=Y1-JvjsAAAAJ&hl=en">Google Scholar</a--> 
+ <!-- a href="https://www.linkedin.com/in/muradqasaimeh/">LinkedIn</a--> 
 
 ### Category Name 1 
 
