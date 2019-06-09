@@ -1,10 +1,10 @@
 title: Murad Qasaimeh
 logo: "/images/logo.png?raw=true"  
 description: > # your text below (remove <br> elements if you don't need line breaks)
- PhD Candidate at Iowa State University  Electrical and Computer Engineering
-<br><br>
-I am a researcher and engineer with a solid software/hardware background. 
-My key competences include reconfigurable computing, hardware-software co-design for computer vision and machine learning embedded applications.  
+  PhD Candidate at Iowa State University  Electrical and Computer Engineering
+  <br><br>
+  I am a researcher and engineer with a solid software/hardware background. 
+  My key competences include reconfigurable computing, hardware-software co-design for computer vision and machine learning embedded applications.  
 
    
 theme: jekyll-theme-minimal
