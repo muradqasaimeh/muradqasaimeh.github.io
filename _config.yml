@@ -1,12 +1,13 @@
 title: Murad Qasaimeh
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+logo: "/images/logo.png?raw=true"  
 description: > # your text below (remove <br> elements if you don't need line breaks)
   PhD Candidate at Iowa State University | Electrical and Computer Engineering
   <br><br>
-  I am a researcher and engineer with a solid software/hardware background. My key competences include reconfigurable computing, 
-  hardware-software co-design for computer vision and machine learning embedded applications.  
+  I am a researcher and engineer with a solid software/hardware background. 
+  My key competences include reconfigurable computing, hardware-software co-design for computer vision and machine learning embedded applications.  
   <br><br>
   <a href="https://www.linkedin.com/in/muradqasaimeh/">LinkedIn</a> 
+  <br><br>
   <a href="https://scholar.google.com/citations?user=Y1-JvjsAAAAJ&hl=en">Google Scholar</a> 
   
 theme: jekyll-theme-minimal
