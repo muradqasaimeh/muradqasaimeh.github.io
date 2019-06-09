@@ -2,13 +2,13 @@ title: Murad Qasaimeh
 logo: "/images/logo.png?raw=true"  
 description: > # your text below (remove <br> elements if you don't need line breaks)
  <b> PhD Candidate at Iowa State University </b>  Electrical and Computer Engineering
-  <br><br>
-  I am a researcher and engineer with a solid software/hardware background. 
-  My key competences include reconfigurable computing, hardware-software co-design for computer vision and machine learning embedded applications.  
-  <br><br>
-  <a href="https://www.linkedin.com/in/muradqasaimeh/">LinkedIn</a> 
-  
+<br><br>
+I am a researcher and engineer with a solid software/hardware background. 
+My key competences include reconfigurable computing, hardware-software co-design for computer vision and machine learning embedded applications.  
 
+<br><br>
+<a href="https://www.linkedin.com/in/muradqasaimeh/">LinkedIn</a> 
+  
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
  
