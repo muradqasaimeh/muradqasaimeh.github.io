@@ -1,44 +1,53 @@
-## Developer Portfolio Landing Page Template
+# Portfolio Website.
+Web Portfolio to showcase projects and skills in better manner. 
 
-Use this template if you need a quick developer / data science portfolio! Based on a Minimal Jekyll theme for GitHub Pages.
+**If you enjoy this project, please consider [supporting me](https://www.paypal.me/vinaysomawat) to continue developing and maintaining it.**
 
-<img src="images/demo.gif?raw=true"/>
+[![Support via PayPal](https://cdn.rawgit.com/twolfson/paypal-github-button/1.0.0/dist/button.svg)](https://www.paypal.me/vinaysomawat)
 
-See full step by step tutorial [on Medium](https://medium.com/@evanca/set-up-your-portfolio-website-in-less-than-10-minutes-with-github-pages-d0efa8ff56fd).
-___
+###### https://vinaysomawat.github.io/
 
-You can use the editor on GitHub to maintain and preview the content for your website in Markdown files.
+![Image](https://github.com/vinaysomawat/vinaysomawat.github.io/blob/master/web-dev/images/portfolio.png)
+### About me
+* Competitive Programming Page
+* Web Designing Page
+* Software Development Page
+* Android Application Page
+* Technical Writing Page
+* Machine Learning Page
+* Open Source Page
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Hire Me banner
+### Skills
+* Skills with progress bar
+### Education
+* Undergrad
+* Intermediate
+### Work Experience
+### Contact
+* Mail Address
+* Location
 
-### Markdown
+### Footer
+------------------------------------------------------------------
+To setup the project on your local machine:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+1. Click on `Fork`.
+2. Go to your fork and `clone` the project to your local machine.
+3. `git clone https://github.com/vinaysomawat/vinaysomawat.github.io.git`
 
-```markdown
-Syntax highlighted code block
+To contribute to the project:
 
-# Header 1
-## Header 2
-### Header 3
+1. Choose any open issue from [here](https://github.com/vinaysomawat/vinaysomawat.github.io/issues). 
+2. Comment on the issue: `Can I work on this?` and get assigned.
+3. Make changes to your fork and send a PR.
 
-- Bulleted
-- List
+To create a PR:
 
-1. Numbered
-2. List
+Follow the given link to make a successful and valid PR: https://help.github.com/articles/creating-a-pull-request/
 
-**Bold** and _Italic_ and `Code` text
+To send a PR, follow these rules carefully,**otherwise your PR will be closed**:
 
-[Link](url) and ![Image](src)
-```
+1. Make PR title in this format: `Fixes #IssueNo : Name of Issue`
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-___
-
-References:
-
-[1] Jekyll theme "Minimal" for GitHub Pages: https://github.com/pages-themes/minimal (CC0 1.0 Universal License)
-<br>[2] Dummy photo via: https://pixabay.com/photos/man-male-adult-person-caucasian-1209494/ (Pixabay License)
-<br>[3] Dummy thumbnail image created by rawpixel.com: https://www.freepik.com/free-vector/set-elements-infographic_2807573.htm (Standard Freepik License)
+For any doubts related to the issues, i.e., to understand the issue better etc, comment down your queries on the respective issue.
