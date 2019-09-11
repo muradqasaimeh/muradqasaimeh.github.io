@@ -128,7 +128,7 @@ figure {
   width: 300px;
   position: fixed;
   z-index: 1001;
-  background: #ecd0d0;
+  background: #ecd0d04f;
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s; }
